@@ -4,5 +4,5 @@
     ex) mkdir Jaeyoun
 2. 만든 폴더에 들어가서 소스코드와 설명을 만든다.
     ex) touch solve.java
-        touch README.md
+\t\ttouch README.md
 3. 만든 파일들에 내용을 추가하고 add, commit, push한다.
