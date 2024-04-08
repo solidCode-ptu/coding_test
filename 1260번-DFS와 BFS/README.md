@@ -8,4 +8,4 @@
     touch README.md
 
 3. 만든 파일들에 내용을 추가하고 add, commit, push한다.
-4. 살인충동을 가끔느껴요.
+4. 충동테스트
